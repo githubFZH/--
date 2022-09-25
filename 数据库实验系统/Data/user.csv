@@ -1,0 +1,3 @@
+,user,create,select,update,delete,insert,grant,revoke
+tuple,admin,all,all,all,all,all,all,all
+tuple,fzh,fzh,fzh,fzh,fzh,fzh,fzh,fzh

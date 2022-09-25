@@ -1,0 +1,12 @@
+,sno,sname,ssex,sage,sdept
+tuple,201801060806,cuiyifan,男,20,计算机
+tuple,201801060706,cuiyifan,男,20,计算机
+tuple,201801060819,wangjunjie,女,20,计算机
+tuple,201801060807,fuzihao,女,20,计算机
+tuple,201801060707,fuzihao,女,20,计算机
+type,char,char,char,int,char
+primary key,1,0,0,0,0
+unique,1,0,0,0,0
+not null,1,0,0,0,0
+foreign key,0,0,0,0,0
+check,无,无,无,(sage>18),无

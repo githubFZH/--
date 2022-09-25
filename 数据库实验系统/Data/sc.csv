@@ -1,0 +1,11 @@
+,con,grade,sno
+tuple,1,91,201801060819
+tuple,1,92,201801060808
+tuple,1,90,201801060806
+tuple,1,97,201801060807
+type,int,int,char
+primary key,0,0,0
+unique,0,0,0
+not null,0,0,0
+foreign key,0,0,0
+check,无,无,无

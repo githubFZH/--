@@ -1,0 +1,7 @@
+1.下载Data文件夹和数据库系统.ipynb、数据库系统.py
+pyhtho后台运行程序：
+2.安装好python环境，python版本在3.0以上
+3.将Data文件夹和py文件放在同一目录下，打开运行，找到py文件所在目录，编译并运行python 数据库系统.py即可运行程序
+jupyter版本：
+4.安装anaconda后打开jupyter，将Data和数据库系统.ipynb导入
+5.打开数据库系统.ipynb即可运行程序
